@@ -5,5 +5,7 @@ authors = ["wrmsr <timwilloney@gmail.com>"]
 edition = "2018"
 homepage = "https://github.com/wrmsr/megalith"
 repository = "https://github.com/wrmsr/megalith"
+license = "BSD3"
+license-file = "LICENSE"
 
 [dependencies]
