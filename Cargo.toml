@@ -3,9 +3,9 @@ name = "megalith"
 version = "0.1.0"
 authors = ["wrmsr <timwilloney@gmail.com>"]
 edition = "2018"
+description = "Megalith"
 homepage = "https://github.com/wrmsr/megalith"
 repository = "https://github.com/wrmsr/megalith"
 license = "BSD3"
-license-file = "LICENSE"
 
 [dependencies]
