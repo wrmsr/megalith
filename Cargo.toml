@@ -6,6 +6,6 @@ edition = "2018"
 description = "Megalith"
 homepage = "https://github.com/wrmsr/megalith"
 repository = "https://github.com/wrmsr/megalith"
-license = "BSD3"
+license = "BSD-3-Clause"
 
 [dependencies]
