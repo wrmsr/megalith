@@ -3,5 +3,7 @@ name = "megalith"
 version = "0.1.0"
 authors = ["wrmsr <timwilloney@gmail.com>"]
 edition = "2018"
+homepage = "https://github.com/wrmsr/megalith"
+repository = "https://github.com/wrmsr/megalith"
 
 [dependencies]
